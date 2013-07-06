@@ -45,9 +45,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc/evitareul/proprietary/bin/tf_daemon:system/bin/tf_daemon \
   vendor/htc/evitareul/proprietary/etc/agps_rm:system/etc/agps_rm \
   vendor/htc/evitareul/proprietary/etc/AIC3008_REG_DualMic.csv:system/etc/AIC3008_REG_DualMic.csv \
-  vendor/htc/evitareul/proprietary/etc/asound.conf:system/etc/asound.conf \
-  vendor/htc/evitareul/proprietary/etc/audio_effects.conf:system/etc/audio_effects.conf \
-  vendor/htc/evitareul/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
   vendor/htc/evitareul/proprietary/etc/calibration:system/etc/calibration \
   vendor/htc/evitareul/proprietary/etc/calibration.gpio4:system/etc/calibration.gpio4 \
   vendor/htc/evitareul/proprietary/etc/dbus.conf:system/etc/dbus.conf \
