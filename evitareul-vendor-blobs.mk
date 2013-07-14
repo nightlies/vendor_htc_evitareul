@@ -44,18 +44,14 @@ PRODUCT_COPY_FILES += \
   vendor/htc/evitareul/proprietary/bin/rild:system/bin/rild \
   vendor/htc/evitareul/proprietary/bin/tf_daemon:system/bin/tf_daemon \
   vendor/htc/evitareul/proprietary/etc/agps_rm:system/etc/agps_rm \
-  vendor/htc/evitareul/proprietary/etc/AIC3008_REG_DualMic.csv:system/etc/AIC3008_REG_DualMic.csv \
   vendor/htc/evitareul/proprietary/etc/calibration:system/etc/calibration \
   vendor/htc/evitareul/proprietary/etc/calibration.gpio4:system/etc/calibration.gpio4 \
   vendor/htc/evitareul/proprietary/etc/dbus.conf:system/etc/dbus.conf \
-  vendor/htc/evitareul/proprietary/etc/DSP_number.txt:system/etc/DSP_number.txt \
   vendor/htc/evitareul/proprietary/etc/gps.conf:system/etc/gps.conf \
   vendor/htc/evitareul/proprietary/etc/gps.conf_default:system/etc/gps.conf_default \
   vendor/htc/evitareul/proprietary/etc/hldm.bin:system/etc/hldm.bin \
   vendor/htc/evitareul/proprietary/etc/hltof.bin:system/etc/hltof.bin \
   vendor/htc/evitareul/proprietary/etc/hltrd.bin:system/etc/hltrd.bin \
-  vendor/htc/evitareul/proprietary/etc/media_codecs.xml:system/etc/media_codecs.xml \
-  vendor/htc/evitareul/proprietary/etc/media_profiles.xml:system/etc/media_profiles.xml \
   vendor/htc/evitareul/proprietary/etc/nfcee_access.xml:system/etc/nfcee_access.xml \
   vendor/htc/evitareul/proprietary/etc/voicemail-conf.xml:system/etc/voicemail-conf.xml \
   vendor/htc/evitareul/proprietary/etc/bluetooth/a2dp_avrcp.conf:system/etc/bluetooth/a2dp_avrcp.conf \
@@ -78,7 +74,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc/evitareul/proprietary/etc/nfcee_access.xml:system/etc/nfcee_access.xml \
   vendor/htc/evitareul/proprietary/etc/uilock.yuv:system/etc/uilock.yuv \
   vendor/htc/evitareul/proprietary/etc/voicemail-conf.xml:system/etc/voicemail-conf.xml \
-  vendor/htc/evitareul/proprietary/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
   vendor/htc/evitareul/proprietary/lib/egl/libEGL_perfhud.so:system/lib/egl/libEGL_perfhud.so \
   vendor/htc/evitareul/proprietary/lib/egl/libEGL_tegra_impl.so:system/lib/egl/libEGL_tegra_impl.so \
   vendor/htc/evitareul/proprietary/lib/egl/libEGL_tegra.so:system/lib/egl/libEGL_tegra.so \
@@ -91,8 +86,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc/evitareul/proprietary/lib/egl/libGLESv2_tegra.so:system/lib/egl/libGLESv2_tegra.so \
   vendor/htc/evitareul/proprietary/lib/hw/audio.a2dp.default.so:system/lib/hw/audio.a2dp.default.so \
   vendor/htc/evitareul/proprietary/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.default.so \
-  vendor/htc/evitareul/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
-  vendor/htc/evitareul/proprietary/lib/hw/audio_policy.tegra.so:system/lib/hw/audio_policy.tegra.so \
   vendor/htc/evitareul/proprietary/lib/hw/camera.tegra.so:system/lib/hw/camera.tegra.so \
   vendor/htc/evitareul/proprietary/lib/hw/gralloc.default.so:system/lib/hw/gralloc.default.so \
   vendor/htc/evitareul/proprietary/lib/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
